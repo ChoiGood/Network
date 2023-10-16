@@ -23,5 +23,9 @@ VMware 에서 리눅스 우분투 환경에서 C언어를 사용해 네트워크
 
 과제 9 : 멀티 쓰레드를 이용한 OTT(Over-The-Top media service) 서비스 구현
 
+Lab 폴더 : 과제 PPT
+
+Hw 폴더 : 과제 구현한 소스코드
+
 ## 교재
 <img src = "https://github.com/ChoiGood/Network/assets/128384646/0bf1f5b8-fbf7-4a1f-8e5c-dfe44b0bab61" width = "300" height = "400">
